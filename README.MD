@@ -48,6 +48,22 @@ The Bulk Order Editor plugin is a powerful tool for WooCommerce store administra
 - PHP 7.4 or higher
 - WooCommerce 6.0 or higher
 
+<!-- OPENWPCLUB_SPONSORS_START -->
+## Open-source supporters
+
+These companies help keep Open WP Club plugins free and maintained.
+
+[![Open WP Club supporters](https://openwpclub.com/sponsorship/supporters.png)](https://openwpclub.com/sponsors/)
+
+## Sponsored placements
+
+Clearly labelled promotional campaigns, separate from our supporters.
+
+[![Open WP Club sponsored placements](https://openwpclub.com/sponsorship/repos/bulk-order-editor/campaigns.png)](https://openwpclub.com/advertise/)
+
+[Support our work](https://openwpclub.com/sponsors/) · [Discuss a campaign](https://openwpclub.com/advertise/)
+<!-- OPENWPCLUB_SPONSORS_END -->
+
 ## Contributing
 
 Contributions to the Bulk Order Editor plugin are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.
