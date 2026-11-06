@@ -2,6 +2,7 @@
 
 /**
  * Plugin Name: Bulk Order Editor
+ * Tested up to: 7.1.4
  * Plugin URI: https://github.com/MrGKanev/Bulk-Order-Editor/
  * Description: Bulk Order Editor is a simple plugin that allows you to change the status of multiple WooCommerce orders at once.
  * Version: 0.0.6
@@ -12,7 +13,7 @@
  * Requires at least: 6.4
  * Requires PHP: 7.4
  * WC requires at least: 6.0
- * WC tested up to: 9.2.1
+ * WC tested up to: 11.2.2
  */
 
 defined('ABSPATH') || exit;
